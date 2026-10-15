@@ -1,6 +1,6 @@
 # Wrong-Lyrics?
 
-# Spicetify Extension
+# A Custom Spicetify Extension
 
 A custom extension for [Spicetify](https://spicetify.app/) designed to enhance your Spotify experience.
 
@@ -11,8 +11,6 @@ A custom extension for [Spicetify](https://spicetify.app/) designed to enhance y
 | Custom Theme (Blue) | Original Theme |
 | :---: | :---: |
 | ![Custom Theme](preview-custom.png) | ![Original Theme](preview-original.png) |
-
-> **Note:** Make sure to upload your screenshots to your repository root (or image folder) as `preview-custom.png` and `preview-original.png`!
 
 ---
 
@@ -33,3 +31,11 @@ Open your terminal or command prompt and run:
 ```bash
 spicetify config extensions extension.js
 spicetify apply
+
+# Credits
+
+Huge cradits to:
+
+Claude AI - For assistance during the development process.
+
+spikerko - Main developer of spicy-lyrics, for the inspiration behind this project.
