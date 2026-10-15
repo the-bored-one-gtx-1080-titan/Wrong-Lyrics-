@@ -1,12 +1,12 @@
 # Wrong-Lyrics?
 
-# A Custom Spicetify Extension
-
 # Credits:
 
 spikerko - Main developer of spicy-lyrics, for the inspiration behind this project.
 
 Claude AI - For assistance during the development process.
+
+# A Custom Spicetify Extension
 
 A custom extension for [Spicetify](https://spicetify.app/) designed to enhance your Spotify experience.
 
