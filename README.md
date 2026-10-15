@@ -8,7 +8,7 @@ A custom extension for [Spicetify](https://spicetify.app/) designed to enhance y
 
 ## 📸 Screenshots
 
-| Custom Theme (Blue) | Original Theme |
+| Custom Theme (windows aero(under-progress) | Original Theme |
 | :---: | :---: |
 | ![Custom Theme](preview-custom.png) | ![Original Theme](preview-original.png) |
 
