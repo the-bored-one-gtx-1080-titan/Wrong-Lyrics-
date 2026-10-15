@@ -2,6 +2,12 @@
 
 # A Custom Spicetify Extension
 
+# Credits:
+
+spikerko - Main developer of spicy-lyrics, for the inspiration behind this project.
+
+Claude AI - For assistance during the development process.
+
 A custom extension for [Spicetify](https://spicetify.app/) designed to enhance your Spotify experience.
 
 ---
@@ -32,10 +38,3 @@ Open your terminal or command prompt and run:
 spicetify config extensions extension.js
 spicetify apply
 
-# Credits
-
-Huge cradits to:
-
-Claude AI - For assistance during the development process.
-
-spikerko - Main developer of spicy-lyrics, for the inspiration behind this project.
