@@ -38,3 +38,4 @@ Open your terminal or command prompt and run:
 spicetify config extensions 'Wrong-Lyrics'.js
 spicetify apply
 
+# have a nice time listening!
